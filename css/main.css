@@ -1,0 +1,25 @@
+body {
+    background-color: #eaebed;
+}
+
+main {
+    display: inline-block; width: 50%; margin-top: 100px; margin-right: 25%;
+}
+img {
+    width: 40%; float: left; margin-right: 10%;
+}
+div {
+    width: 50%; float: left; margin-top: 50px; text-align: center;
+}
+h1 {
+display: inline-block; width: 100%; margin: 0; font-size: 90px;
+}
+p {
+    display: inline-block; width: 100%; margin: 0; font-size: 23px;
+}
+p {
+    display: inline-block; width: 100%;
+}
+a {
+    display: inline-block; padding: 20px; padding-top: 15px; padding-bottom: 15px; background-color: #696F89; color: white; text-decoration: none; text-transform: uppercase;
+}
