@@ -1,25 +1,52 @@
 body {
-    background-color: #eaebed;
+    background-color: red;
 }
-
 main {
-    display: inline-block; width: 50%; margin-top: 100px; margin-right: 25%;
+    background-color: aqua;
+    display: inline-block;
+    width: 60%;
+    margin-top: 100px;
+    margin-left: 20%;
+    
 }
 img {
-    width: 40%; float: left; margin-right: 10%;
+    width: 40%;
+    float: left;
+    margin-right: 10%;
 }
 div {
-    width: 50%; float: left; margin-top: 50px; text-align: center;
+    background-color: darkgreen;
+    width: 50%;
+    float: left;
+    margin-top: 100px;
+    text-align: center
 }
 h1 {
-display: inline-block; width: 100%; margin: 0; font-size: 90px;
+    display: inline-block;
+background-color: yellow;
+width: 100%;
+margin: 0;
+font-size: 90px;
 }
-p {
-    display: inline-block; width: 100%; margin: 0; font-size: 23px;
+
+.one {
+    display: inline-block;
+    background-color: blue;
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+
 }
-p {
-    display: inline-block; width: 100%;
+.two {
+    display: inline-block;
+    background-color: blueviolet;
+    width: 100%;
 }
 a {
-    display: inline-block; padding: 20px; padding-top: 15px; padding-bottom: 15px; background-color: #696F89; color: white; text-decoration: none; text-transform: uppercase;
+    display: inline-block;
+    background-color: gold;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
 }
