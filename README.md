@@ -23,16 +23,17 @@ Design: https://themesboss.com/elvish/index_6.html
 
 
 
-####Project features
-Github pages
-multi-page
-content rendering with JS
-carousel
-gallery
-fontawesome icons
-CSS animations
-CSS import
-JS import-export
+## Project features
+
+- Github pages
+- multi-page
+- content rendering with JS
+- carousel
+- gallery
+- fontawesome icons
+- CSS animations
+- CSS import
+- JS import-export
 
 
 
